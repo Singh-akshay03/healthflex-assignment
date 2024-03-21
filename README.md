@@ -58,4 +58,7 @@ This component is responsible for fetching and displaying forecasted weather dat
 - Forecast Weather API: Similar to real-time weather API, but uses the Tomorrow.io Forecast API to fetch forecasted weather data.
 - Data Flow: When the component mounts, it checks for the user's location. If geolocation is supported and permission is granted, it fetches weather data using the user's current location. Otherwise, it prompts the user to input their location manually. Weather data is fetched and displayed accordingly.
 
+## CONTACT INFORMATION
+- contact: akshay03.singh03@gmail.com
+
 
