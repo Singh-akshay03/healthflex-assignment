@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './WeatherComponent.css';
 
-const apiKey = '9ZJcpp4mgl6MJB28bX4nLDWg17Rea8Hb';
+const apiKey = 'API_KEY';
 const apiUrl = 'https://api.tomorrow.io/v4/timelines';
 
 const WeatherComponent = () => {
